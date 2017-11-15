@@ -1,0 +1,12 @@
+*.DS_Store
+*.pyc
+*.swp
+*.egg-info
+build/
+venv
+MANIFEST
+dist/
+out/*
+*.c
+*.so
+__pycache__
